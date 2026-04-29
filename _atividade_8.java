@@ -21,7 +21,6 @@ public class _atividade_8 {
             if (alerta == 1) {
                 System.out.println("ALERTA!, ALERTA! Algo de ruim aconteceu na fabrica!!");
             }
-
         } while (alerta < 0 || alerta > 1);
         sc.close();
     }
