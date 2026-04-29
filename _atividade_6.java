@@ -10,7 +10,7 @@ public class _atividade_6 {
 
         System.out.println("Insira o seu username.");
         do {
-            user = sc.next();
+            user = sc.nextLine();
             adm = "ADMIN";
             if (!user.equals(adm)) {
                 System.out.println("seu nick esta errado, tente novamente.");
