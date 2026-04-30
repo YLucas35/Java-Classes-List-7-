@@ -2,7 +2,7 @@ package Java_Lista_7_Faca_Enquanto;
 
 import java.util.Scanner;
 
-public class atividade_17 {
+public class _atividade_17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int dia;
